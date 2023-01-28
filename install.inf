@@ -1,0 +1,7 @@
+[info]
+title=Git Pane
+desc=Update Later
+type=cudatext-plugin
+subdir=cuda_git_pane
+homepage=https://github.com/ThaiDat/cuda_git_pane
+api=1.0.0
