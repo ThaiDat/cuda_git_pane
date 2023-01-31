@@ -5,3 +5,8 @@ type=cudatext-plugin
 subdir=cuda_git_pane
 homepage=https://github.com/ThaiDat/cuda_git_pane
 api=1.0.0
+
+[sidebar1]
+hint=Git Pane
+icon=./py/cuda_git_pane/assets/gitw.png
+method=do_open
